@@ -221,6 +221,10 @@ margin-top: 3%;
   .nav-link {
     text-align: left;
   }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+  }
 
   .cta{
     font-size: 2rem;
